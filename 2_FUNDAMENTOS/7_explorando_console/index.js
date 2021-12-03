@@ -20,3 +20,4 @@ console.log('O nome é, %s, e ele é programador',  y)
 setTimeout(() =>{
     console.clear()
 }, 2000)
+
